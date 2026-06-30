@@ -13,9 +13,8 @@ I'm a passionate developer with diverse interests spanning full-stack web develo
 
 - 🔭 Currently learning and building ML and AI Automation
 - 🌐 Learning more about how systems around me work
-- 🤖 Trying to cope in the AI world
 - 💼 Open to collaboration and opportunities
-- 🧠 Interested in: Full Stack Development, AI Automation, Talent Acquistion
+- 🧠 Interested in: Full Stack Development, AI Automation, Talent Acquisition
 
 ---
 
