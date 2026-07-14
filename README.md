@@ -12,11 +12,15 @@
 I'm a passionate developer with diverse interests spanning full-stack web development, machine learning, and automation. I like building things that are actually useful, from real-time collaborative tools and ML-powered forecasting platforms to automated testing pipelines. I have a research publication in high-dimensional forecasting, made the Dean's List twice at FAST-NUCES, and have shipped production software used by 5,000+ users. When I'm not coding I'm probably automating something that was annoying me.
 
 - 🔭 Currently learning and building ML and AI Automation
-- 🌐 Learning more about how systems around me work
+- 💻 Learning more about how systems around me work
 - 💼 Open to collaboration and opportunities
 - 🧠 Interested in: Full Stack Development, AI Automation, Talent Acquisition
 
 ---
+
+## 🌐 Portfolio Website
+
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge)](https://yourportfolio.com)
 
 ## ⭐ LATEST PROJECTS
 
